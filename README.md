@@ -4,7 +4,7 @@
 </div>
 <div>
   <ul>
-    <li>👨‍🎓 Systems development technian graduated at SENAI Suiço-Brasileira</li>
+    <li>👨‍🎓 Systems development technician graduated at SENAI Suiço-Brasileira</li>
     <li>🧑‍💻 Mobile and web applications development in multiple languages</li>
     <li>🛜 Experience with network tools and operating systems</li>
     <li>🦾 Dynamic problem solver and diligent operator</li>
