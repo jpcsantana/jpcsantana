@@ -5,7 +5,7 @@
 <div>
   <ul>
     <li>👨‍🎓 Systems development technian graduated at SENAI Suiço-Brasileira</li>
-    <li>🧑‍💻 Development of mobile and web applications in multiple languages</li>
+    <li>🧑‍💻 Mobile and web applications development in multiple languages</li>
     <li>🛜 Experience with network tools and operating systems</li>
     <li>🦾 Dynamic problem solver and diligent operator</li>
     <li>💼 Currently working on my personal portfolio and professional contact project with <a href="https://github.com/astra-software">Astra</a>, but open to job offers</li>
