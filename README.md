@@ -4,18 +4,17 @@
 </div>
 <div>
   <ul>
-    <li>Systems development technian graduated at SENAI Suiço-Brasileira</li>
-    <li>Development of mobile and web applications in multiple languages</li>
-    <li>Experience with network tools and operating systems</li>
-    <li>Dynamic problem solver and diligent operator</li>
-    <li>Currently working on my personal portfolio and professional contact project with <a href="https://github.com/astra-software">Astra</a>, but open to job offers</li>
+    <li>👨‍🎓 Systems development technian graduated at SENAI Suiço-Brasileira</li>
+    <li>🧑‍💻 Development of mobile and web applications in multiple languages</li>
+    <li>🛜 Experience with network tools and operating systems</li>
+    <li>🦾 Dynamic problem solver and diligent operator</li>
+    <li>💼 Currently working on my personal portfolio and professional contact project with <a href="https://github.com/astra-software">Astra</a>, but open to job offers</li>
   </ul>
 </div>
 <div>
   <h2>Technologies</h2>
   <h3>Languages</h3>
   
-  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" height="30" alt="Bash"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="30" alt="JavaScript"  />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" height="30" alt="TypeScript"  />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" height="30" alt="Java"  />
@@ -35,6 +34,13 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff" height="30" alt="Redux"  />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff" height="30" alt="Shadcn"  />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" height="30" alt="Spring Boot"  />
+  <h3>Databases</h3>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="30" alt="MySQL"  />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="30" alt="MongoDB"  />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white" height="30" alt="Neo4j"  />
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height="30" alt="Postgres"  />
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" height="30" alt="Redis"  />
+  
   <h3>Tools</h3>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" height="30" alt="NodeJS"  />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" height="30" alt="Docker"  />
@@ -47,6 +53,26 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="30" alt="Figma"  />
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" height="30" alt="Trello"  />
   <img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff" height="30" alt="Miro"  />
+
+  <h3>Cloud and OS</h3>
+  
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" height="30" alt="AWS"  />
+  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" height="30" alt="Netlify"  />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" height="30" alt="Azure"  />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" height="30" alt="Vercel"  />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" height="30" alt="Android"  />
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" height="30" alt="Windows"  />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="30" alt="Linux"  />
+  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" height="30" alt="macOS"  />
+
+  <h3>IDEs</h3>
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" height="30" alt="Eclipse"  />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" height="30" alt="IntelliJ"  />
+  <img src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white" height="30" alt="Netbeans"  />
+  <img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff" height="30" alt="PyCharm"  />
+  <img src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important" height="30" alt="Sublime"  />
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" height="30" alt="Visual Studio"  />
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" height="30" alt="Visual Studio Code"  />
   
 </div>
 <div>
@@ -56,18 +82,8 @@
 </div>
 <div>
   <h2>Contact me!</h2>
+  <h3>Send me a message or follow me in any of these social and I will answer as soon as possible!</h3>
+  <a href="mailto:jpcsantana401@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="30" alt="Gmail"  /></a>
+  <a href="https://www.linkedin.com/in/jpcota/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" height="30" alt="LinkedIn"  /></a>
+  <a href="https://discord.gg/kveXnPzf"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" height="30" alt="Discord"  /></a>
 </div>
-<!--
-**sntpwbl/sntpwbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
