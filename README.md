@@ -87,7 +87,7 @@ My name is **João Paulo**, and I'm a **brazilian full-stack developer**. Studyi
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntpwbl&layout=compact&langs_count=7&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpcsantana&layout=compact&langs_count=7&theme=dracula)
 
 ---
 
