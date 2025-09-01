@@ -10,7 +10,6 @@ My name is **João Paulo**, and I'm a **brazilian full-stack developer**. Studyi
 - 🧑‍💻 Mobile and web applications development in multiple languages
 - 🛜 Experience with network tools and operating systems
 - 🦾 Dynamic problem solver and diligent operator
-- 💼 Currently working on my personal portfolio and professional contact project with [Astra](https://github.com/astra-software), but open to job offers
 
 ---
 
